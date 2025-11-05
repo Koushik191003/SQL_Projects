@@ -1,0 +1,501 @@
+Car_ID,Brand,Model,Year,Color,Engine_Type,Transmission,Price,Quantity_In_Stock,Status
+C0001,Toyota,Camry,2023,Red,Petrol,Automatic,80338.15,6,Available
+C0002,Tesla,Model 3,2019,Red,Electric,Manual,26437.73,16,Available
+C0003,Nissan,Qashqai,2018,Blue,Electric,Automatic,50158.13,20,Available
+C0004,Hyundai,Sonata,2025,Red,Hybrid,Automatic,33026.14,3,Available
+C0005,Toyota,RAV4,2016,White,Hybrid,Manual,79672.9,9,Reserved
+C0006,Hyundai,Elantra,2019,White,Diesel,Automatic,94225.03,17,Sold
+C0007,Mercedes,C-Class,2020,Gray,Petrol,Manual,21344.38,7,Reserved
+C0008,Tesla,Model 3,2021,Gray,Hybrid,Manual,48813.94,14,Reserved
+C0009,BMW,3 Series,2017,Blue,Electric,Manual,34430.1,14,Sold
+C0010,Tesla,Model S,2015,Red,Hybrid,Manual,42136.55,0,Sold
+C0011,Tesla,Model 3,2017,Silver,Electric,Automatic,17337.05,3,Available
+C0012,Tesla,Model S,2016,Gray,Electric,Manual,78178.58,13,Reserved
+C0013,Hyundai,Sonata,2018,Blue,Diesel,Manual,92616.24,2,Sold
+C0014,Toyota,RAV4,2024,Silver,Hybrid,Automatic,97512.33,18,Reserved
+C0015,Nissan,Altima,2019,Blue,Diesel,Manual,89267.74,17,Reserved
+C0016,BMW,3 Series,2024,Black,Petrol,Manual,36006.2,10,Reserved
+C0017,Nissan,Qashqai,2018,Silver,Petrol,Automatic,30585.94,2,Reserved
+C0018,Nissan,Qashqai,2016,Black,Petrol,Manual,71104.74,15,Reserved
+C0019,Tesla,Model S,2019,White,Diesel,Manual,24426.04,2,Sold
+C0020,Toyota,Camry,2022,Blue,Electric,Manual,68270.75,2,Sold
+C0021,BMW,3 Series,2020,Red,Diesel,Automatic,60882.36,19,Available
+C0022,Tesla,Model X,2018,Red,Diesel,Automatic,40366.14,18,Sold
+C0023,Tesla,Model 3,2024,Silver,Diesel,Automatic,51077.41,20,Reserved
+C0024,Mercedes,E-Class,2019,Blue,Petrol,Manual,33546.72,8,Sold
+C0025,Nissan,Altima,2016,Silver,Petrol,Manual,48204.7,2,Available
+C0026,BMW,3 Series,2023,Black,Electric,Automatic,94847.47,5,Sold
+C0027,Mercedes,E-Class,2020,Gray,Hybrid,Manual,30021.18,8,Available
+C0028,Kia,Sportage,2016,Blue,Hybrid,Manual,64476.81,10,Sold
+C0029,Tesla,Model 3,2024,Silver,Hybrid,Manual,87083.91,11,Sold
+C0030,Hyundai,Tucson,2022,Gray,Diesel,Manual,30892.91,0,Available
+C0031,Mercedes,E-Class,2016,Silver,Petrol,Automatic,66365.92,5,Reserved
+C0032,Tesla,Model X,2018,Blue,Petrol,Automatic,65576.93,10,Reserved
+C0033,Tesla,Model 3,2020,White,Petrol,Manual,21841.21,10,Sold
+C0034,Toyota,Camry,2023,Blue,Petrol,Automatic,89206.33,18,Available
+C0035,Kia,Cerato,2023,Blue,Hybrid,Manual,65266.64,5,Sold
+C0036,Toyota,Camry,2017,Red,Electric,Automatic,22685.3,13,Available
+C0037,Kia,Sportage,2024,Red,Diesel,Manual,18249.01,15,Sold
+C0038,Nissan,Altima,2017,White,Electric,Automatic,17943.21,17,Available
+C0039,Kia,Cerato,2022,Gray,Hybrid,Automatic,79781.25,19,Available
+C0040,Tesla,Model X,2016,White,Diesel,Manual,18775.42,15,Sold
+C0041,Nissan,Qashqai,2015,Blue,Hybrid,Manual,48152.43,15,Sold
+C0042,Mercedes,E-Class,2018,Gray,Hybrid,Automatic,52740.96,19,Reserved
+C0043,Hyundai,Sonata,2018,Silver,Diesel,Automatic,24980.76,17,Reserved
+C0044,BMW,3 Series,2019,White,Diesel,Automatic,34474.21,8,Sold
+C0045,BMW,5 Series,2020,White,Electric,Manual,85822.19,0,Reserved
+C0046,BMW,X5,2022,White,Hybrid,Automatic,99941.14,11,Sold
+C0047,Tesla,Model S,2019,White,Electric,Manual,37412.17,7,Available
+C0048,Mercedes,GLA,2022,Black,Petrol,Automatic,72301.28,17,Available
+C0049,Tesla,Model S,2020,Red,Diesel,Automatic,58158.34,5,Sold
+C0050,Mercedes,C-Class,2024,Red,Diesel,Manual,88724.54,16,Reserved
+C0051,Kia,Sportage,2020,Gray,Diesel,Automatic,29037.62,5,Sold
+C0052,Kia,Sportage,2022,Gray,Diesel,Manual,26075.52,20,Available
+C0053,Tesla,Model X,2022,Black,Hybrid,Manual,33621.82,13,Sold
+C0054,Toyota,Camry,2018,Silver,Hybrid,Manual,30129.17,20,Reserved
+C0055,BMW,X5,2015,Blue,Diesel,Automatic,77348.2,16,Available
+C0056,Nissan,Sunny,2021,Gray,Diesel,Manual,65876.67,8,Available
+C0057,Nissan,Altima,2018,Black,Diesel,Manual,61473.24,18,Available
+C0058,Tesla,Model S,2023,Black,Electric,Automatic,94755.18,12,Available
+C0059,Kia,Sportage,2020,Gray,Petrol,Manual,91552.46,4,Sold
+C0060,Toyota,Corolla,2023,Silver,Diesel,Manual,99129.16,1,Reserved
+C0061,Nissan,Sunny,2019,Black,Petrol,Manual,70324.99,19,Available
+C0062,Tesla,Model X,2017,Black,Electric,Manual,39427.05,13,Available
+C0063,Kia,Seltos,2019,Red,Diesel,Manual,83221.84,16,Sold
+C0064,Hyundai,Tucson,2019,Silver,Diesel,Automatic,37129.03,7,Reserved
+C0065,Nissan,Altima,2019,Gray,Electric,Manual,46080.53,2,Available
+C0066,Mercedes,E-Class,2017,White,Hybrid,Manual,94252.12,11,Reserved
+C0067,Hyundai,Elantra,2016,Silver,Diesel,Manual,16670.51,18,Reserved
+C0068,Hyundai,Tucson,2018,Black,Diesel,Automatic,47910.8,5,Sold
+C0069,Hyundai,Sonata,2023,Blue,Hybrid,Automatic,31312.75,19,Available
+C0070,Hyundai,Sonata,2016,Black,Hybrid,Automatic,37639.31,19,Reserved
+C0071,Kia,Seltos,2017,Black,Electric,Automatic,53635.55,4,Available
+C0072,Mercedes,GLA,2016,Red,Electric,Manual,90776.35,5,Available
+C0073,Kia,Sportage,2015,Red,Diesel,Manual,81463.08,15,Reserved
+C0074,Hyundai,Tucson,2017,Gray,Electric,Automatic,92661.53,5,Available
+C0075,Kia,Seltos,2020,Black,Petrol,Automatic,87777.21,9,Reserved
+C0076,Nissan,Qashqai,2020,Silver,Hybrid,Manual,97778.44,15,Available
+C0077,Toyota,RAV4,2018,Black,Electric,Automatic,37286.07,7,Sold
+C0078,BMW,3 Series,2020,Blue,Hybrid,Manual,87241.9,2,Available
+C0079,Toyota,Corolla,2019,Blue,Diesel,Automatic,86983.02,1,Available
+C0080,BMW,X5,2020,White,Petrol,Automatic,97807.1,13,Sold
+C0081,Tesla,Model 3,2016,Black,Petrol,Manual,37385.34,12,Reserved
+C0082,Tesla,Model S,2015,Gray,Diesel,Automatic,71327.53,16,Sold
+C0083,Hyundai,Elantra,2020,Black,Electric,Manual,94839.15,16,Available
+C0084,BMW,3 Series,2024,White,Petrol,Manual,45427.97,18,Available
+C0085,Mercedes,E-Class,2020,White,Diesel,Manual,92630.78,18,Reserved
+C0086,BMW,5 Series,2019,Silver,Hybrid,Automatic,73510.91,14,Available
+C0087,Mercedes,GLA,2025,Gray,Hybrid,Manual,68728.35,10,Available
+C0088,Kia,Cerato,2024,White,Hybrid,Automatic,92417.23,0,Sold
+C0089,Nissan,Qashqai,2018,Red,Electric,Manual,33212.38,14,Reserved
+C0090,BMW,5 Series,2019,Silver,Electric,Automatic,17920.21,10,Reserved
+C0091,Hyundai,Tucson,2018,Black,Electric,Manual,92699.73,8,Reserved
+C0092,Mercedes,GLA,2023,White,Petrol,Automatic,78374.9,10,Available
+C0093,Hyundai,Tucson,2019,Blue,Electric,Manual,86288.69,14,Sold
+C0094,Tesla,Model 3,2023,Silver,Hybrid,Automatic,35633.32,12,Sold
+C0095,Toyota,Camry,2023,White,Hybrid,Manual,74054.31,3,Reserved
+C0096,Nissan,Qashqai,2019,White,Petrol,Automatic,61660.65,1,Reserved
+C0097,Hyundai,Sonata,2025,White,Diesel,Automatic,56746.29,4,Sold
+C0098,Tesla,Model X,2017,Blue,Electric,Automatic,99875.13,17,Reserved
+C0099,Hyundai,Tucson,2018,Gray,Diesel,Automatic,38984.11,0,Reserved
+C0100,Nissan,Sunny,2018,Blue,Petrol,Manual,74108.18,10,Reserved
+C0101,Mercedes,GLA,2015,Silver,Hybrid,Manual,75529.64,11,Sold
+C0102,Toyota,Camry,2018,Red,Hybrid,Automatic,95035.77,10,Sold
+C0103,Nissan,Altima,2019,Red,Hybrid,Manual,33878.13,5,Available
+C0104,Mercedes,C-Class,2020,White,Petrol,Automatic,88830.31,3,Reserved
+C0105,Kia,Sportage,2022,White,Diesel,Manual,54845.1,12,Sold
+C0106,BMW,5 Series,2023,White,Petrol,Automatic,57448.98,18,Reserved
+C0107,Hyundai,Tucson,2021,Gray,Electric,Automatic,46740.58,14,Sold
+C0108,BMW,3 Series,2019,Gray,Electric,Automatic,68415.0,14,Sold
+C0109,Toyota,RAV4,2022,White,Electric,Manual,97204.59,0,Reserved
+C0110,Nissan,Sunny,2018,Gray,Petrol,Manual,40546.31,2,Available
+C0111,Kia,Sportage,2016,Black,Petrol,Automatic,96742.24,17,Sold
+C0112,Nissan,Altima,2021,Red,Hybrid,Manual,46778.03,10,Sold
+C0113,Toyota,RAV4,2024,White,Diesel,Automatic,35194.67,6,Available
+C0114,Hyundai,Tucson,2024,Blue,Hybrid,Manual,63367.44,16,Available
+C0115,Tesla,Model X,2015,Red,Electric,Manual,98105.6,17,Sold
+C0116,Tesla,Model X,2020,Black,Petrol,Automatic,43309.15,0,Reserved
+C0117,Toyota,Corolla,2016,Gray,Petrol,Manual,25746.43,14,Reserved
+C0118,BMW,X5,2023,Red,Petrol,Automatic,77133.35,13,Sold
+C0119,Mercedes,GLA,2018,Black,Hybrid,Manual,23200.24,17,Available
+C0120,Nissan,Qashqai,2016,Black,Petrol,Manual,56469.05,2,Reserved
+C0121,Nissan,Sunny,2022,Silver,Diesel,Manual,62501.37,20,Reserved
+C0122,Tesla,Model 3,2018,Blue,Petrol,Manual,85848.09,20,Available
+C0123,Mercedes,E-Class,2021,White,Petrol,Automatic,23630.56,19,Reserved
+C0124,Nissan,Sunny,2015,Blue,Diesel,Manual,44875.07,18,Reserved
+C0125,Tesla,Model S,2017,Silver,Electric,Automatic,35200.68,9,Available
+C0126,Nissan,Sunny,2024,White,Electric,Automatic,67563.87,2,Sold
+C0127,Toyota,Camry,2025,Red,Diesel,Manual,93219.23,3,Reserved
+C0128,Kia,Seltos,2019,Gray,Diesel,Manual,84135.49,12,Available
+C0129,Kia,Sportage,2016,Blue,Hybrid,Automatic,95882.76,15,Reserved
+C0130,Mercedes,GLA,2021,White,Hybrid,Automatic,48149.33,6,Available
+C0131,Toyota,RAV4,2025,Blue,Electric,Automatic,61924.42,9,Sold
+C0132,Hyundai,Sonata,2022,Silver,Electric,Automatic,58245.71,19,Reserved
+C0133,Kia,Sportage,2020,Black,Diesel,Manual,20192.76,7,Reserved
+C0134,Toyota,Camry,2016,Gray,Diesel,Automatic,51529.96,8,Sold
+C0135,Mercedes,C-Class,2015,White,Hybrid,Automatic,55815.59,5,Sold
+C0136,BMW,3 Series,2019,Gray,Petrol,Manual,84503.94,20,Sold
+C0137,BMW,X5,2016,Silver,Petrol,Manual,49659.73,12,Sold
+C0138,Toyota,Camry,2024,Blue,Hybrid,Automatic,71116.49,7,Sold
+C0139,Tesla,Model 3,2019,White,Diesel,Automatic,63900.82,13,Available
+C0140,BMW,X5,2025,Red,Hybrid,Manual,22543.49,11,Sold
+C0141,Tesla,Model X,2022,Gray,Electric,Manual,49552.44,8,Reserved
+C0142,Hyundai,Tucson,2016,Blue,Diesel,Automatic,39878.32,5,Available
+C0143,BMW,X5,2019,Red,Electric,Manual,97300.14,4,Sold
+C0144,BMW,5 Series,2021,Black,Electric,Automatic,71068.19,7,Sold
+C0145,Mercedes,C-Class,2019,Blue,Petrol,Manual,89690.07,10,Sold
+C0146,Kia,Seltos,2024,White,Petrol,Manual,32150.03,14,Reserved
+C0147,Mercedes,GLA,2018,White,Electric,Automatic,40101.92,13,Available
+C0148,Toyota,RAV4,2015,Gray,Diesel,Manual,60714.01,13,Reserved
+C0149,Nissan,Sunny,2016,White,Diesel,Manual,89010.17,18,Available
+C0150,Hyundai,Tucson,2017,Blue,Petrol,Manual,78555.28,10,Available
+C0151,Hyundai,Sonata,2017,Gray,Petrol,Manual,44911.18,6,Sold
+C0152,Hyundai,Elantra,2022,Red,Hybrid,Automatic,18449.83,1,Sold
+C0153,Kia,Cerato,2016,Black,Hybrid,Automatic,86495.32,15,Reserved
+C0154,Tesla,Model 3,2018,Silver,Petrol,Manual,41195.2,19,Reserved
+C0155,Mercedes,C-Class,2022,Blue,Petrol,Automatic,15064.15,16,Available
+C0156,Hyundai,Sonata,2015,Gray,Hybrid,Manual,22779.54,13,Available
+C0157,Mercedes,E-Class,2024,Silver,Hybrid,Manual,54478.11,5,Available
+C0158,Hyundai,Elantra,2018,White,Hybrid,Manual,15564.23,18,Reserved
+C0159,Toyota,RAV4,2019,Black,Diesel,Automatic,37017.34,6,Sold
+C0160,BMW,X5,2018,Red,Petrol,Manual,56409.55,20,Sold
+C0161,Mercedes,C-Class,2016,Silver,Petrol,Manual,26413.01,8,Reserved
+C0162,Nissan,Qashqai,2015,Gray,Electric,Manual,53008.54,7,Available
+C0163,Tesla,Model X,2020,Gray,Diesel,Manual,46277.93,17,Reserved
+C0164,Tesla,Model S,2023,White,Petrol,Automatic,42464.66,3,Available
+C0165,Tesla,Model S,2016,Gray,Petrol,Manual,64280.26,17,Reserved
+C0166,Tesla,Model X,2022,White,Petrol,Automatic,44421.49,9,Sold
+C0167,Mercedes,GLA,2021,Silver,Hybrid,Automatic,56347.83,6,Available
+C0168,Toyota,Camry,2019,Gray,Diesel,Manual,34744.17,20,Reserved
+C0169,Toyota,Corolla,2023,White,Petrol,Manual,77945.94,1,Sold
+C0170,Toyota,Camry,2024,Black,Electric,Manual,25733.99,14,Sold
+C0171,Tesla,Model X,2024,Red,Petrol,Automatic,23723.97,9,Reserved
+C0172,Mercedes,C-Class,2015,Gray,Hybrid,Manual,25393.08,8,Sold
+C0173,Toyota,Camry,2020,Blue,Petrol,Automatic,57344.63,10,Available
+C0174,Toyota,Corolla,2025,White,Electric,Automatic,18521.5,12,Available
+C0175,Nissan,Sunny,2024,Gray,Hybrid,Automatic,74816.25,19,Reserved
+C0176,BMW,3 Series,2022,Black,Hybrid,Manual,95524.52,6,Reserved
+C0177,BMW,5 Series,2021,Red,Petrol,Automatic,94367.33,8,Reserved
+C0178,Kia,Cerato,2025,White,Petrol,Automatic,77094.76,6,Sold
+C0179,Nissan,Sunny,2020,Gray,Petrol,Manual,43838.33,5,Reserved
+C0180,Nissan,Sunny,2025,Blue,Electric,Manual,15712.77,19,Reserved
+C0181,Tesla,Model S,2018,Red,Hybrid,Automatic,19270.26,16,Reserved
+C0182,Kia,Cerato,2018,Silver,Diesel,Manual,94592.91,16,Available
+C0183,Mercedes,E-Class,2022,Red,Petrol,Automatic,40162.15,3,Available
+C0184,Kia,Seltos,2015,White,Hybrid,Automatic,90025.63,6,Sold
+C0185,Hyundai,Tucson,2015,Gray,Electric,Automatic,22264.62,2,Available
+C0186,BMW,X5,2016,Silver,Diesel,Automatic,95629.0,4,Available
+C0187,Hyundai,Tucson,2021,Black,Electric,Automatic,62336.26,20,Reserved
+C0188,Toyota,Corolla,2018,Red,Diesel,Automatic,62762.83,8,Sold
+C0189,BMW,3 Series,2020,Blue,Electric,Manual,66184.26,9,Available
+C0190,BMW,5 Series,2023,Blue,Petrol,Manual,42304.16,9,Reserved
+C0191,Nissan,Qashqai,2025,Gray,Petrol,Manual,42582.85,4,Available
+C0192,Nissan,Sunny,2015,Gray,Diesel,Manual,92711.05,2,Sold
+C0193,Toyota,Camry,2020,Black,Petrol,Manual,91143.29,6,Available
+C0194,BMW,5 Series,2020,Red,Electric,Manual,47141.16,8,Reserved
+C0195,Tesla,Model X,2020,Gray,Diesel,Manual,36871.75,2,Available
+C0196,Hyundai,Elantra,2021,Red,Petrol,Automatic,44101.03,14,Available
+C0197,Toyota,Camry,2021,Black,Petrol,Automatic,85571.95,18,Available
+C0198,Tesla,Model X,2022,White,Hybrid,Automatic,35439.69,12,Available
+C0199,Hyundai,Elantra,2025,Silver,Diesel,Manual,42536.49,4,Sold
+C0200,Toyota,Corolla,2022,Gray,Petrol,Manual,71249.59,20,Available
+C0201,Toyota,Camry,2023,Red,Hybrid,Automatic,57000.19,17,Available
+C0202,Mercedes,C-Class,2018,Blue,Diesel,Automatic,35182.93,8,Sold
+C0203,Kia,Cerato,2025,Silver,Hybrid,Manual,26695.21,0,Reserved
+C0204,Tesla,Model S,2019,Blue,Electric,Manual,19232.38,17,Reserved
+C0205,Mercedes,GLA,2018,Black,Electric,Manual,91063.54,9,Sold
+C0206,Kia,Sportage,2019,Black,Petrol,Manual,95801.7,1,Reserved
+C0207,Nissan,Sunny,2022,Red,Petrol,Manual,36900.28,8,Available
+C0208,BMW,3 Series,2024,Blue,Electric,Automatic,43449.6,12,Reserved
+C0209,Mercedes,GLA,2023,White,Electric,Manual,49027.17,20,Sold
+C0210,Tesla,Model S,2016,Gray,Electric,Automatic,74916.76,13,Available
+C0211,Toyota,Camry,2018,Black,Diesel,Automatic,68207.89,18,Sold
+C0212,Kia,Cerato,2016,Silver,Electric,Automatic,29137.93,1,Available
+C0213,Toyota,Corolla,2018,Red,Electric,Automatic,86747.54,8,Available
+C0214,Toyota,RAV4,2023,Black,Diesel,Automatic,64961.25,6,Sold
+C0215,Kia,Cerato,2024,Silver,Electric,Manual,56252.8,20,Sold
+C0216,BMW,5 Series,2025,Blue,Hybrid,Automatic,66993.77,20,Available
+C0217,Kia,Seltos,2025,Silver,Electric,Manual,54557.44,6,Reserved
+C0218,Kia,Sportage,2018,Blue,Electric,Automatic,18998.57,10,Available
+C0219,Mercedes,GLA,2020,Red,Diesel,Automatic,36444.24,2,Available
+C0220,Toyota,Camry,2021,White,Petrol,Manual,27036.18,0,Sold
+C0221,Toyota,Camry,2016,White,Diesel,Automatic,32320.79,14,Sold
+C0222,Tesla,Model S,2020,Red,Diesel,Automatic,35547.41,0,Available
+C0223,Tesla,Model S,2020,White,Petrol,Manual,66030.95,5,Reserved
+C0224,BMW,5 Series,2022,Black,Electric,Manual,17316.68,19,Available
+C0225,Tesla,Model S,2019,Blue,Petrol,Automatic,30317.47,18,Sold
+C0226,Mercedes,GLA,2016,White,Diesel,Manual,73197.25,6,Available
+C0227,BMW,3 Series,2015,White,Hybrid,Automatic,33511.99,10,Reserved
+C0228,Toyota,Corolla,2021,Gray,Petrol,Manual,80597.19,0,Sold
+C0229,Kia,Cerato,2022,Black,Petrol,Manual,49689.9,18,Available
+C0230,BMW,3 Series,2016,Blue,Hybrid,Automatic,75684.26,17,Reserved
+C0231,Toyota,Camry,2024,White,Petrol,Manual,41318.81,17,Available
+C0232,Mercedes,GLA,2018,Gray,Diesel,Automatic,93984.87,17,Reserved
+C0233,Toyota,Corolla,2016,Blue,Electric,Automatic,34356.67,15,Available
+C0234,Nissan,Qashqai,2022,Gray,Diesel,Automatic,78320.67,11,Available
+C0235,Kia,Seltos,2024,Silver,Petrol,Automatic,40425.82,2,Sold
+C0236,Mercedes,GLA,2019,Silver,Electric,Manual,99664.31,14,Sold
+C0237,Mercedes,GLA,2018,Blue,Hybrid,Manual,92692.93,6,Reserved
+C0238,BMW,5 Series,2022,Gray,Electric,Automatic,23452.33,16,Available
+C0239,Toyota,Camry,2019,Blue,Electric,Automatic,84197.99,14,Available
+C0240,BMW,5 Series,2025,Silver,Electric,Manual,56336.78,0,Sold
+C0241,Toyota,RAV4,2018,Red,Hybrid,Automatic,48576.42,10,Available
+C0242,Tesla,Model X,2018,Red,Petrol,Automatic,68211.04,0,Available
+C0243,Tesla,Model S,2018,Silver,Hybrid,Automatic,63692.99,3,Reserved
+C0244,Tesla,Model X,2025,Blue,Hybrid,Manual,67286.72,4,Available
+C0245,Mercedes,E-Class,2021,Black,Diesel,Automatic,59861.26,16,Available
+C0246,Mercedes,C-Class,2015,Black,Hybrid,Manual,70409.5,20,Available
+C0247,Mercedes,GLA,2022,Blue,Petrol,Automatic,45148.19,2,Available
+C0248,Nissan,Qashqai,2016,Gray,Hybrid,Manual,72386.63,14,Reserved
+C0249,Hyundai,Tucson,2021,White,Petrol,Manual,65306.64,16,Available
+C0250,Nissan,Qashqai,2020,Gray,Diesel,Automatic,80442.75,12,Available
+C0251,Hyundai,Sonata,2017,Red,Hybrid,Manual,77125.68,5,Available
+C0252,Kia,Seltos,2015,Blue,Electric,Manual,65579.25,4,Available
+C0253,Nissan,Sunny,2023,Red,Petrol,Automatic,40904.29,14,Reserved
+C0254,BMW,X5,2025,Blue,Diesel,Automatic,34442.59,10,Reserved
+C0255,BMW,5 Series,2025,Black,Petrol,Automatic,16073.13,0,Reserved
+C0256,Nissan,Qashqai,2019,Gray,Diesel,Manual,69403.31,19,Available
+C0257,BMW,3 Series,2024,Blue,Diesel,Manual,36852.07,3,Sold
+C0258,Toyota,Corolla,2023,Black,Electric,Automatic,76450.54,0,Available
+C0259,Kia,Sportage,2024,Black,Diesel,Manual,15432.72,0,Available
+C0260,Tesla,Model S,2024,Black,Hybrid,Automatic,75764.51,2,Sold
+C0261,Tesla,Model X,2022,Silver,Hybrid,Automatic,60188.37,19,Reserved
+C0262,Nissan,Sunny,2017,Red,Diesel,Automatic,15731.73,20,Reserved
+C0263,Hyundai,Sonata,2022,White,Hybrid,Manual,82694.4,16,Sold
+C0264,Tesla,Model 3,2019,Silver,Hybrid,Manual,70040.25,6,Reserved
+C0265,Kia,Seltos,2018,Gray,Petrol,Manual,29781.09,13,Reserved
+C0266,Tesla,Model X,2020,White,Hybrid,Automatic,24742.94,0,Available
+C0267,BMW,X5,2024,White,Electric,Manual,40159.41,0,Sold
+C0268,BMW,5 Series,2022,White,Electric,Manual,77897.88,1,Available
+C0269,Nissan,Qashqai,2015,Gray,Electric,Automatic,52804.45,11,Available
+C0270,Tesla,Model 3,2024,Black,Electric,Manual,76670.69,3,Reserved
+C0271,Nissan,Qashqai,2016,Gray,Diesel,Automatic,60403.39,20,Sold
+C0272,BMW,X5,2025,Gray,Electric,Manual,36261.58,13,Sold
+C0273,Mercedes,GLA,2019,Silver,Hybrid,Automatic,97569.91,16,Available
+C0274,Nissan,Altima,2015,Silver,Electric,Manual,94691.22,17,Sold
+C0275,BMW,3 Series,2017,Silver,Electric,Manual,44753.36,11,Sold
+C0276,Nissan,Sunny,2025,Blue,Petrol,Automatic,50703.33,4,Reserved
+C0277,Nissan,Qashqai,2016,White,Hybrid,Automatic,34255.92,2,Available
+C0278,Nissan,Altima,2016,Silver,Petrol,Manual,84961.77,2,Sold
+C0279,Kia,Seltos,2015,Red,Electric,Automatic,85933.12,18,Sold
+C0280,Tesla,Model 3,2015,Blue,Electric,Automatic,15390.95,18,Reserved
+C0281,Tesla,Model S,2020,Black,Petrol,Manual,64085.76,0,Sold
+C0282,Mercedes,E-Class,2017,Blue,Hybrid,Automatic,68812.78,14,Reserved
+C0283,Toyota,Camry,2022,White,Hybrid,Manual,28195.4,17,Sold
+C0284,Mercedes,C-Class,2022,Blue,Electric,Automatic,51668.13,9,Reserved
+C0285,Kia,Cerato,2017,White,Diesel,Manual,16765.09,19,Sold
+C0286,Nissan,Sunny,2025,Silver,Hybrid,Manual,59081.2,7,Sold
+C0287,Hyundai,Sonata,2024,Gray,Diesel,Automatic,52822.73,0,Sold
+C0288,BMW,3 Series,2018,Black,Diesel,Automatic,79631.09,14,Sold
+C0289,Tesla,Model 3,2025,White,Diesel,Automatic,29872.8,17,Reserved
+C0290,Mercedes,GLA,2022,Blue,Diesel,Automatic,99707.28,19,Available
+C0291,Kia,Sportage,2018,Silver,Diesel,Manual,76715.08,11,Sold
+C0292,Hyundai,Elantra,2022,Blue,Diesel,Automatic,79140.18,9,Sold
+C0293,BMW,3 Series,2015,White,Electric,Automatic,69114.77,16,Available
+C0294,Nissan,Sunny,2020,Silver,Electric,Automatic,50422.08,13,Reserved
+C0295,Hyundai,Elantra,2025,Blue,Hybrid,Manual,97629.5,9,Sold
+C0296,Nissan,Qashqai,2019,White,Petrol,Automatic,36488.89,4,Available
+C0297,Hyundai,Tucson,2023,Blue,Electric,Manual,83331.9,1,Reserved
+C0298,Kia,Seltos,2017,Red,Diesel,Automatic,80850.23,4,Available
+C0299,Tesla,Model S,2024,White,Electric,Automatic,53359.33,19,Sold
+C0300,Mercedes,C-Class,2015,Silver,Electric,Manual,84003.26,10,Sold
+C0301,BMW,X5,2022,Black,Petrol,Automatic,86538.68,17,Available
+C0302,Mercedes,C-Class,2022,Black,Electric,Automatic,78237.97,14,Sold
+C0303,Tesla,Model X,2020,White,Hybrid,Manual,41004.62,8,Reserved
+C0304,BMW,5 Series,2017,Silver,Petrol,Manual,44558.29,16,Available
+C0305,Nissan,Altima,2018,Black,Petrol,Manual,68740.73,15,Sold
+C0306,Nissan,Qashqai,2021,Blue,Diesel,Manual,80287.54,0,Sold
+C0307,Kia,Cerato,2023,Red,Diesel,Manual,18650.45,19,Sold
+C0308,BMW,5 Series,2023,Black,Hybrid,Manual,54084.04,11,Sold
+C0309,Toyota,Camry,2018,Gray,Hybrid,Manual,19202.36,15,Available
+C0310,Hyundai,Elantra,2018,White,Petrol,Automatic,97891.68,5,Available
+C0311,Toyota,Corolla,2015,White,Hybrid,Automatic,45662.22,15,Sold
+C0312,Hyundai,Elantra,2022,Black,Petrol,Manual,93641.13,6,Available
+C0313,Toyota,Camry,2023,Red,Petrol,Manual,66822.3,16,Sold
+C0314,Tesla,Model X,2015,Red,Electric,Manual,34144.39,20,Reserved
+C0315,Mercedes,E-Class,2016,White,Diesel,Manual,49991.15,3,Reserved
+C0316,Toyota,RAV4,2024,Silver,Petrol,Manual,65718.57,5,Available
+C0317,Toyota,Camry,2025,Gray,Petrol,Automatic,94065.17,6,Available
+C0318,Mercedes,C-Class,2021,Black,Hybrid,Manual,44874.76,2,Sold
+C0319,Mercedes,C-Class,2023,Silver,Diesel,Automatic,52256.29,15,Available
+C0320,Kia,Cerato,2018,Blue,Diesel,Manual,24694.17,12,Sold
+C0321,Mercedes,C-Class,2025,Red,Hybrid,Manual,72243.59,15,Available
+C0322,Mercedes,GLA,2024,White,Electric,Manual,76945.41,9,Available
+C0323,Kia,Sportage,2021,Gray,Electric,Manual,58060.85,12,Sold
+C0324,Nissan,Sunny,2017,White,Petrol,Automatic,49935.47,11,Sold
+C0325,Hyundai,Sonata,2023,Red,Diesel,Automatic,64065.66,12,Reserved
+C0326,Tesla,Model S,2016,Red,Petrol,Automatic,73630.87,16,Available
+C0327,Mercedes,E-Class,2019,Black,Electric,Automatic,91909.78,12,Reserved
+C0328,Hyundai,Sonata,2016,Blue,Diesel,Automatic,24042.37,12,Reserved
+C0329,Tesla,Model S,2015,Black,Hybrid,Automatic,86885.09,5,Available
+C0330,Hyundai,Tucson,2025,White,Diesel,Automatic,39257.79,15,Available
+C0331,BMW,X5,2023,Silver,Diesel,Automatic,21666.03,8,Sold
+C0332,Nissan,Altima,2023,Black,Diesel,Automatic,43315.59,9,Available
+C0333,BMW,3 Series,2019,Blue,Diesel,Manual,86322.24,13,Sold
+C0334,BMW,3 Series,2017,White,Diesel,Manual,47842.6,10,Reserved
+C0335,Tesla,Model X,2018,White,Diesel,Manual,65420.55,19,Available
+C0336,Mercedes,C-Class,2025,Blue,Electric,Manual,93744.9,8,Reserved
+C0337,Nissan,Qashqai,2018,Black,Electric,Automatic,26411.09,20,Available
+C0338,Nissan,Sunny,2023,Red,Hybrid,Automatic,90237.8,1,Sold
+C0339,Tesla,Model S,2019,Gray,Hybrid,Manual,92883.27,10,Sold
+C0340,Kia,Seltos,2019,Black,Electric,Automatic,53012.12,20,Reserved
+C0341,Kia,Seltos,2022,Blue,Petrol,Manual,35862.17,7,Sold
+C0342,Nissan,Qashqai,2016,Red,Petrol,Automatic,30351.37,18,Available
+C0343,Nissan,Sunny,2019,Red,Hybrid,Manual,83159.71,19,Sold
+C0344,Nissan,Altima,2017,Red,Electric,Automatic,82070.94,11,Available
+C0345,Hyundai,Tucson,2017,White,Diesel,Automatic,86871.06,5,Reserved
+C0346,Nissan,Altima,2021,White,Diesel,Manual,52055.61,7,Reserved
+C0347,Nissan,Sunny,2023,Black,Petrol,Manual,51599.71,18,Reserved
+C0348,Hyundai,Tucson,2019,Red,Electric,Manual,16688.91,1,Reserved
+C0349,Nissan,Qashqai,2017,Gray,Hybrid,Automatic,53216.75,6,Available
+C0350,Kia,Seltos,2022,Black,Diesel,Manual,52463.23,15,Sold
+C0351,Kia,Seltos,2020,Gray,Petrol,Automatic,30658.1,1,Sold
+C0352,Tesla,Model S,2017,Black,Petrol,Automatic,79853.55,9,Reserved
+C0353,Tesla,Model X,2019,Red,Electric,Automatic,21727.73,7,Sold
+C0354,Toyota,Camry,2018,Black,Diesel,Manual,89064.3,4,Reserved
+C0355,Nissan,Sunny,2017,Silver,Diesel,Automatic,66192.9,6,Sold
+C0356,Toyota,RAV4,2017,Black,Diesel,Automatic,93494.38,6,Available
+C0357,Tesla,Model X,2019,Gray,Hybrid,Automatic,55936.19,0,Sold
+C0358,Kia,Seltos,2025,Blue,Electric,Manual,96428.19,8,Sold
+C0359,BMW,X5,2022,Red,Petrol,Manual,95666.26,2,Available
+C0360,Toyota,RAV4,2023,Black,Electric,Automatic,55890.27,14,Sold
+C0361,BMW,X5,2016,White,Petrol,Automatic,96776.11,2,Sold
+C0362,Nissan,Qashqai,2022,Silver,Petrol,Manual,75124.7,13,Sold
+C0363,Kia,Cerato,2015,Blue,Diesel,Manual,99989.12,3,Available
+C0364,Hyundai,Elantra,2024,Black,Diesel,Automatic,24071.71,5,Available
+C0365,Kia,Cerato,2023,Red,Petrol,Manual,57296.32,12,Reserved
+C0366,Hyundai,Elantra,2022,Black,Petrol,Automatic,56171.44,4,Sold
+C0367,Tesla,Model 3,2017,Gray,Diesel,Manual,35856.76,10,Available
+C0368,BMW,X5,2017,Silver,Petrol,Manual,72043.42,11,Available
+C0369,Nissan,Sunny,2021,White,Diesel,Manual,42812.59,2,Reserved
+C0370,Tesla,Model X,2025,Blue,Diesel,Manual,68216.44,1,Reserved
+C0371,Hyundai,Tucson,2023,Red,Hybrid,Manual,34068.8,14,Reserved
+C0372,Hyundai,Tucson,2024,Black,Petrol,Manual,51461.64,1,Reserved
+C0373,Nissan,Altima,2022,Black,Electric,Manual,65384.54,17,Sold
+C0374,Toyota,Camry,2017,Silver,Diesel,Automatic,21452.52,20,Reserved
+C0375,Mercedes,E-Class,2021,Red,Petrol,Automatic,92158.1,6,Reserved
+C0376,Nissan,Sunny,2016,Silver,Electric,Manual,75290.48,18,Sold
+C0377,Kia,Sportage,2021,Gray,Electric,Manual,19766.68,7,Reserved
+C0378,Kia,Cerato,2016,Gray,Petrol,Automatic,94187.85,13,Available
+C0379,BMW,5 Series,2018,Blue,Electric,Manual,15287.73,9,Sold
+C0380,Toyota,RAV4,2023,Black,Petrol,Automatic,73265.22,8,Reserved
+C0381,Nissan,Altima,2016,Black,Petrol,Automatic,17936.62,1,Sold
+C0382,Kia,Sportage,2024,Red,Hybrid,Manual,97407.23,10,Reserved
+C0383,Kia,Cerato,2018,Black,Hybrid,Automatic,54266.05,12,Sold
+C0384,Tesla,Model 3,2015,Black,Petrol,Automatic,63705.91,1,Available
+C0385,Mercedes,E-Class,2019,Silver,Electric,Automatic,23456.77,20,Reserved
+C0386,Toyota,Corolla,2018,Gray,Diesel,Automatic,29727.24,1,Sold
+C0387,Hyundai,Tucson,2016,Silver,Petrol,Manual,80106.33,13,Available
+C0388,Mercedes,E-Class,2020,Black,Electric,Automatic,36180.46,1,Sold
+C0389,Toyota,RAV4,2023,Silver,Hybrid,Automatic,74572.62,10,Reserved
+C0390,Nissan,Sunny,2023,Blue,Petrol,Automatic,39960.25,1,Reserved
+C0391,Nissan,Qashqai,2020,White,Electric,Automatic,88353.45,11,Sold
+C0392,Hyundai,Tucson,2018,Red,Hybrid,Automatic,71319.43,15,Reserved
+C0393,Toyota,RAV4,2022,Blue,Diesel,Automatic,75783.38,8,Available
+C0394,BMW,X5,2016,Black,Diesel,Automatic,38266.04,0,Reserved
+C0395,Toyota,RAV4,2025,Gray,Diesel,Automatic,53727.95,10,Sold
+C0396,Kia,Sportage,2017,Silver,Hybrid,Manual,69972.71,18,Reserved
+C0397,Mercedes,GLA,2024,Blue,Petrol,Automatic,34260.62,3,Reserved
+C0398,Nissan,Qashqai,2015,Black,Electric,Manual,41514.29,18,Available
+C0399,Kia,Seltos,2015,Red,Petrol,Manual,68707.48,20,Sold
+C0400,Toyota,Corolla,2016,Gray,Petrol,Automatic,97026.32,14,Reserved
+C0401,Hyundai,Sonata,2025,Silver,Hybrid,Manual,89678.74,1,Sold
+C0402,BMW,5 Series,2015,Red,Diesel,Manual,94457.24,18,Available
+C0403,Mercedes,GLA,2017,Silver,Electric,Automatic,96698.43,7,Sold
+C0404,Kia,Cerato,2021,Red,Petrol,Manual,87910.41,8,Sold
+C0405,Tesla,Model X,2023,Black,Hybrid,Automatic,88806.92,11,Reserved
+C0406,Toyota,Camry,2018,Gray,Hybrid,Automatic,93761.81,10,Sold
+C0407,Kia,Sportage,2015,Silver,Diesel,Automatic,25314.9,16,Available
+C0408,BMW,5 Series,2025,Black,Diesel,Manual,52323.95,4,Reserved
+C0409,Mercedes,GLA,2024,Blue,Electric,Automatic,72708.59,6,Sold
+C0410,Kia,Cerato,2025,Gray,Petrol,Automatic,41377.02,2,Reserved
+C0411,Nissan,Sunny,2025,Silver,Electric,Automatic,92927.72,9,Available
+C0412,BMW,5 Series,2025,Gray,Petrol,Manual,22416.75,16,Sold
+C0413,Kia,Seltos,2021,Silver,Petrol,Manual,95358.71,4,Reserved
+C0414,BMW,X5,2018,Red,Electric,Manual,75830.05,0,Available
+C0415,Mercedes,C-Class,2022,Red,Petrol,Manual,40626.62,17,Sold
+C0416,Mercedes,C-Class,2018,Black,Hybrid,Automatic,36408.74,5,Reserved
+C0417,Kia,Seltos,2020,Black,Hybrid,Automatic,97010.2,13,Available
+C0418,Mercedes,E-Class,2024,Silver,Hybrid,Automatic,33747.3,17,Reserved
+C0419,Hyundai,Elantra,2024,Blue,Electric,Automatic,26589.96,7,Sold
+C0420,Tesla,Model X,2021,Black,Diesel,Automatic,99307.62,5,Reserved
+C0421,Nissan,Sunny,2024,White,Electric,Automatic,67664.2,6,Available
+C0422,BMW,5 Series,2024,Silver,Diesel,Automatic,24443.71,10,Sold
+C0423,Kia,Cerato,2019,Gray,Electric,Automatic,70594.53,4,Sold
+C0424,Nissan,Qashqai,2020,Blue,Petrol,Manual,70388.78,9,Available
+C0425,Toyota,RAV4,2019,White,Diesel,Manual,20378.35,12,Available
+C0426,Hyundai,Tucson,2017,Black,Diesel,Manual,72163.86,4,Reserved
+C0427,Kia,Cerato,2022,Black,Hybrid,Manual,81521.6,1,Sold
+C0428,Mercedes,E-Class,2016,Black,Hybrid,Manual,46983.41,0,Reserved
+C0429,Mercedes,GLA,2025,Gray,Petrol,Manual,86656.17,12,Reserved
+C0430,Nissan,Sunny,2017,Red,Diesel,Automatic,21393.33,6,Reserved
+C0431,Hyundai,Tucson,2017,Silver,Petrol,Automatic,90207.03,2,Available
+C0432,Nissan,Sunny,2015,Red,Hybrid,Automatic,49078.51,14,Available
+C0433,Nissan,Altima,2015,Gray,Hybrid,Manual,72226.72,3,Sold
+C0434,Mercedes,E-Class,2019,Red,Petrol,Manual,45192.28,15,Sold
+C0435,Tesla,Model X,2016,Gray,Electric,Automatic,25337.12,3,Reserved
+C0436,Mercedes,GLA,2018,White,Diesel,Manual,67934.18,12,Available
+C0437,Nissan,Sunny,2025,Gray,Electric,Automatic,99669.63,7,Available
+C0438,Toyota,Camry,2020,Blue,Electric,Manual,62584.97,14,Reserved
+C0439,Hyundai,Tucson,2025,Gray,Diesel,Automatic,70576.6,17,Sold
+C0440,Tesla,Model 3,2016,Red,Electric,Manual,77162.51,19,Available
+C0441,BMW,3 Series,2019,Silver,Petrol,Manual,99718.55,6,Reserved
+C0442,Nissan,Sunny,2024,Black,Diesel,Manual,90545.9,3,Reserved
+C0443,Mercedes,GLA,2019,White,Petrol,Automatic,15040.82,6,Available
+C0444,Hyundai,Elantra,2015,Silver,Electric,Automatic,52122.52,19,Available
+C0445,Mercedes,C-Class,2022,White,Electric,Automatic,67001.44,7,Sold
+C0446,Mercedes,C-Class,2019,Red,Electric,Automatic,96503.38,11,Reserved
+C0447,Hyundai,Tucson,2017,White,Hybrid,Automatic,96124.81,13,Reserved
+C0448,Toyota,RAV4,2021,White,Petrol,Automatic,81740.74,6,Sold
+C0449,Kia,Cerato,2019,Blue,Hybrid,Automatic,42928.74,10,Available
+C0450,Hyundai,Tucson,2023,Black,Petrol,Automatic,95414.91,2,Available
+C0451,Toyota,Corolla,2020,Black,Electric,Manual,71681.32,5,Reserved
+C0452,BMW,X5,2021,Silver,Electric,Manual,96580.7,11,Available
+C0453,Tesla,Model X,2024,Black,Diesel,Automatic,39915.71,15,Reserved
+C0454,Tesla,Model 3,2016,Black,Petrol,Manual,56316.6,3,Reserved
+C0455,Nissan,Qashqai,2023,Gray,Hybrid,Manual,94666.38,0,Sold
+C0456,Kia,Sportage,2016,White,Petrol,Manual,18896.17,5,Available
+C0457,Mercedes,E-Class,2018,Black,Diesel,Manual,89425.83,8,Available
+C0458,Nissan,Sunny,2022,Gray,Hybrid,Manual,21314.27,4,Sold
+C0459,Mercedes,C-Class,2015,White,Diesel,Manual,86997.52,18,Available
+C0460,Kia,Seltos,2024,Gray,Electric,Automatic,89695.19,10,Available
+C0461,Mercedes,C-Class,2023,Gray,Electric,Manual,69815.82,9,Sold
+C0462,Kia,Cerato,2020,Gray,Diesel,Manual,70305.32,15,Available
+C0463,BMW,3 Series,2025,Black,Petrol,Manual,97547.49,9,Reserved
+C0464,Hyundai,Elantra,2023,White,Hybrid,Manual,71865.37,0,Sold
+C0465,BMW,X5,2020,Red,Electric,Manual,97325.62,5,Reserved
+C0466,Mercedes,E-Class,2015,White,Petrol,Manual,31162.29,5,Reserved
+C0467,Nissan,Qashqai,2016,Red,Petrol,Automatic,67754.28,5,Available
+C0468,BMW,5 Series,2024,Blue,Electric,Automatic,22864.84,3,Available
+C0469,Kia,Seltos,2021,Red,Diesel,Manual,74126.21,4,Available
+C0470,Mercedes,E-Class,2018,Red,Diesel,Manual,57972.89,15,Available
+C0471,Toyota,RAV4,2016,Silver,Hybrid,Automatic,65330.42,14,Sold
+C0472,Hyundai,Sonata,2024,Gray,Petrol,Manual,57968.41,16,Available
+C0473,BMW,5 Series,2018,White,Hybrid,Automatic,77673.89,5,Sold
+C0474,Hyundai,Elantra,2021,Black,Hybrid,Automatic,96801.96,17,Sold
+C0475,Mercedes,C-Class,2025,Gray,Hybrid,Manual,39426.35,10,Sold
+C0476,Toyota,Corolla,2025,Blue,Hybrid,Automatic,98034.8,9,Available
+C0477,Nissan,Sunny,2016,Gray,Electric,Automatic,63023.81,17,Sold
+C0478,Mercedes,GLA,2019,Blue,Electric,Manual,39151.25,13,Reserved
+C0479,Tesla,Model X,2019,Blue,Electric,Automatic,95030.16,3,Available
+C0480,Toyota,Camry,2020,Blue,Petrol,Automatic,69164.8,7,Available
+C0481,Mercedes,E-Class,2023,Gray,Hybrid,Manual,53295.04,12,Available
+C0482,Toyota,Camry,2018,Black,Hybrid,Manual,47304.02,3,Reserved
+C0483,Kia,Seltos,2020,Blue,Electric,Manual,57978.6,2,Available
+C0484,Toyota,Camry,2018,Gray,Petrol,Automatic,35701.45,10,Reserved
+C0485,Tesla,Model X,2022,Gray,Petrol,Manual,95460.71,8,Sold
+C0486,BMW,3 Series,2023,Silver,Electric,Manual,64128.73,4,Available
+C0487,Tesla,Model X,2018,White,Hybrid,Manual,71823.77,2,Available
+C0488,Tesla,Model 3,2025,White,Petrol,Automatic,26437.0,15,Sold
+C0489,Mercedes,E-Class,2018,White,Electric,Automatic,76993.42,7,Reserved
+C0490,BMW,5 Series,2016,Black,Hybrid,Automatic,53228.52,15,Available
+C0491,Kia,Seltos,2022,Red,Petrol,Automatic,19841.22,5,Sold
+C0492,Tesla,Model 3,2022,Blue,Electric,Manual,16340.85,10,Available
+C0493,Toyota,Corolla,2017,Black,Diesel,Automatic,31016.48,19,Reserved
+C0494,Toyota,Corolla,2017,White,Electric,Manual,42214.03,19,Reserved
+C0495,Tesla,Model S,2018,Black,Diesel,Automatic,97334.54,18,Sold
+C0496,BMW,X5,2023,Red,Diesel,Manual,53580.76,14,Available
+C0497,Nissan,Altima,2021,Black,Electric,Manual,24233.93,8,Available
+C0498,Mercedes,GLA,2018,Red,Petrol,Manual,55534.6,15,Available
+C0499,Tesla,Model 3,2025,Blue,Diesel,Manual,59691.91,14,Reserved
+C0500,Mercedes,GLA,2024,Blue,Electric,Automatic,75993.8,6,Sold
