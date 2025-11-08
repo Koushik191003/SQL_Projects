@@ -383,8 +383,17 @@ Result:
 
 <img width="246" height="97" alt="image" src="https://github.com/user-attachments/assets/7f023e6d-cb09-4665-8d10-bb1196066ded" />
 
+## Conclusion
 
-
+This SQL project provided valuable insights into sales performance, customer behavior, and inventory management within a car showroom environment.
+- Toyota and Tesla emerged as top-performing brands, contributing the highest overall revenue.
+- Cash and Installment were the most preferred payment methods among customers, indicating diverse purchasing behaviors.
+- Automatic transmission vehicles generated higher revenue compared to manual ones, reflecting modern consumer preferences.
+- Customer loyalty was evident among repeat buyers, with a few high-value customers significantly influencing total sales.
+- Revenue peaked during mid-year months, highlighting potential seasonal trends in car purchasing.
+- Age groups 26–50 contributed the most to sales, suggesting the primary target demographic for marketing campaigns.
+- City-level analysis revealed specific urban areas as top revenue contributors, enabling location-based sales optimization.
+- Stock and status evaluation helped identify underperforming inventory segments and opportunities for restocking popular models.
 
 
 
