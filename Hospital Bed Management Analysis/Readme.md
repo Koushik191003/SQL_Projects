@@ -409,7 +409,15 @@ Result:
 
 <img width="399" height="101" alt="image" src="https://github.com/user-attachments/assets/285bd3f8-6597-4759-b64b-dc19e0efd82b" />
 
+## CONCLUSION
 
+In conclusion, the SQL analysis highlights several important operational insights for the hospital.
+
+- The SQL analysis provided clear insights into patient flow, service demand, and hospital operational trends.
+- Staff attendance and scheduling patterns revealed areas where efficiency can be improved.
+- High-demand services were identified, helping support better resource planning and allocation.
+- Data cleaning and transformation steps ensured accurate, reliable, and analysis-ready datasets.
+- Overall, the project demonstrated how SQL can be used to support data-driven decision-making in hospital management.
 
 
 
