@@ -3,10 +3,8 @@ This repository features SQL-based data analysis projects demonstrating my skill
 ## 1. Hospital Bed Management Analysis
 A comprehensive SQL case study evaluating patient trends, service demand, staff utilization, and hospital performance indicators.
 
-- Dashboard Visualization
-- Analysis Overview
+- <a href = "https://github.com/Koushik191003/SQL_Projects/tree/main/Hospital%20Bed%20Management%20Analysis">Analysis Overview</a>
 ## 2. Cars Showroom Analysis 
 SQL-driven analysis revealing sales performance, customer insights, and inventory trends for a car showroom.
 
-- Dashboard Visualization
-- Analysis Overview
+- <a href = "https://github.com/Koushik191003/SQL_Projects/tree/main/Car%20Showroom%20Analysis">Analysis Overview</a>
